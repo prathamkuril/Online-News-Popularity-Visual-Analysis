@@ -1,6 +1,4 @@
-# README.md
-
-## Online News Popularity: Visual Analysis
+#Online News Popularity: Visual Analysis
 
 This project demonstrates various approaches to analyzing and visualizing the "Online News Popularity" dataset using clustering techniques and advanced data visualization tools. The analysis focuses on grouping articles based on their content characteristics and exploring the distribution of article shares across different categories and time periods.
 
